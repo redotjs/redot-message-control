@@ -1,6 +1,6 @@
 {
   "name": "redot-message-control",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enable, disable, and ignore messages with redot",
   "main": "redot-message-control.js",
   "scripts": {
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/redotjs/redot-message-control.git"
   },
-  "keywords": ["redot", "comment", "parser", "message", "marker", "control"],
+  "keywords": [
+    "redot",
+    "comment",
+    "parser",
+    "message",
+    "marker",
+    "control"
+  ],
   "author": "Christian Murphy",
   "license": "MIT",
   "bugs": {
