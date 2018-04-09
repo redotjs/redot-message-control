@@ -8,22 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristianMurphy/redot-message-control.git"
+    "url": "git+https://github.com/redotjs/redot-message-control.git"
   },
-  "keywords": [
-    "redot",
-    "comment",
-    "parser",
-    "message",
-    "marker",
-    "control"
-  ],
+  "keywords": ["redot", "comment", "parser", "message", "marker", "control"],
   "author": "Christian Murphy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChristianMurphy/redot-message-control/issues"
+    "url": "https://github.com/redotjs/redot-message-control/issues"
   },
-  "homepage": "https://github.com/ChristianMurphy/redot-message-control#readme",
+  "homepage": "https://github.com/redotjs/redot-message-control#readme",
   "dependencies": {
     "unified-message-control": "^1.0.3",
     "xtend": "^4.0.1"
