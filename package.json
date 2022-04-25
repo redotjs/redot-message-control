@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/redotjs/redot-message-control#readme",
   "dependencies": {
-    "unified-message-control": "^1.0.3",
+    "unified-message-control": "^4.0.0",
     "xtend": "^4.0.1"
   },
   "renovate": {
